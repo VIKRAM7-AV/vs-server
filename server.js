@@ -15,7 +15,7 @@ import cloudinary from "cloudinary"
 const app =express();
 
 app.use(cors({
-    origin:"https://vs-wheat.vercel.app",
+    origin:"https://sesa-mu.vercel.app",
     credentials:true
 })) 
 
